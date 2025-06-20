@@ -118,8 +118,8 @@ cd mgt2025
 **[Mohamed Camara]** – Développeur junior.
 
 ---
-Scores Lighthouse en format Mobile et Ordinateur et Webaim
-<img width="387" alt="webaim note" src="https://github.com/user-attachments/assets/2d897153-cd1e-4ad4-9071-84f321018d59" />
+🔧 Scores Lighthouse en format Mobile et Ordinateur et Webaim
+---
 <img width="269" alt="programmehtmllighthouse" src="https://github.com/user-attachments/assets/39677252-bd1c-48de-9a84-b104c9f380b2" />
 <img width="271" alt="programme html lightouse" src="https://github.com/user-attachments/assets/5c1fd734-4d82-4d62-a21a-4252a6c35403" />
 <img width="271" alt="index htmllighthouse" src="https://github.com/user-attachments/assets/51d6e268-e440-4558-85b1-1509d3e74a12" />
@@ -128,3 +128,4 @@ Scores Lighthouse en format Mobile et Ordinateur et Webaim
 <img width="272" alt="contact htmllighthouse" src="https://github.com/user-attachments/assets/eeabdad3-ca99-43fc-96bb-e1303b404dc2" />
 <img width="269" alt="accueilhtmlmobilelighthouse" src="https://github.com/user-attachments/assets/d97e4469-a94b-4750-94e1-8ab307e9565a" />
 <img width="269" alt="accueilhtmllighthouse" src="https://github.com/user-attachments/assets/83728e5a-3b54-480a-847b-ef2ceb62e3ac" />
+<img width="387" alt="webaim note" src="https://github.com/user-attachments/assets/2d897153-cd1e-4ad4-9071-84f321018d59" />
