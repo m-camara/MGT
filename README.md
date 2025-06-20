@@ -118,7 +118,7 @@ cd mgt2025
 **[Mohamed Camara]** – Développeur junior.
 
 ---
-
+Scores Lighthouse en format Mobile et Ordinateur et Webaim
 <img width="387" alt="webaim note" src="https://github.com/user-attachments/assets/2d897153-cd1e-4ad4-9071-84f321018d59" />
 <img width="269" alt="programmehtmllighthouse" src="https://github.com/user-attachments/assets/39677252-bd1c-48de-9a84-b104c9f380b2" />
 <img width="271" alt="programme html lightouse" src="https://github.com/user-attachments/assets/5c1fd734-4d82-4d62-a21a-4252a6c35403" />
