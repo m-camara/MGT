@@ -1,3 +1,5 @@
+<img width="212" alt="contact mobile " src="https://github.com/user-attachments/assets/b9a2346c-73d1-4f02-ae7d-3aed725316dd" />
+<img width="212" alt="mobile accueil mgt" src="https://github.com/user-attachments/assets/5ef97e77-42ae-48fe-8329-4d63931da2dc" />
 
 # 🎮 MGT 2025 – Major Gaming Tournament
 
