@@ -1,6 +1,3 @@
-<img width="212" alt="contact mobile " src="https://github.com/user-attachments/assets/b9a2346c-73d1-4f02-ae7d-3aed725316dd" />
-<img width="212" alt="mobile accueil mgt" src="https://github.com/user-attachments/assets/5ef97e77-42ae-48fe-8329-4d63931da2dc" />
-
 # 🎮 MGT 2025 – Major Gaming Tournament
 
 Bienvenue sur le dépôt officiel de **MGT 2025**, un site vitrine événementiel pour un tournoi de versus fighting à Shibuya. Ce projet est une réalisation HTML/CSS avec intégration de Bootstrap, centrée sur l'accessibilité, la performance et le responsive design.
@@ -101,7 +98,7 @@ cd mgt2025
 
 ## 📸 Capture d'écran
 
-| ![Accueil Desktop](./screenshots/accueilhtmllighthouse.png) | ![Contact Mobile](./screenshots/contacthtmllighthousemobile.png) |
+| <img width="212" alt="mobile accueil mgt" src="https://github.com/user-attachments/assets/5ef97e77-42ae-48fe-8329-4d63931da2dc" /> | <img width="212" alt="contact mobile " src="https://github.com/user-attachments/assets/b9a2346c-73d1-4f02-ae7d-3aed725316dd" />|
 |:--:|:--:|
 | Accueil (desktop) | Formulaire (mobile) |
 
